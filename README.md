@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Abubakar Bajwa
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web/Mobile App Development
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me -> Whatsapp -> +923057157979
 
