@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad Abubakar Bajwa
-- 👀 I’m interested in Web/Mobile App Development
-- 🌱 I’m currently learning Software Engineering
+- 👀 I do Mobile App Development using Flutter and Firebase
+- 🌱 I’m a Software Engineering Graduate
 - 📫 How to reach me -> Whatsapp -> +923057157979
 
 <!---
